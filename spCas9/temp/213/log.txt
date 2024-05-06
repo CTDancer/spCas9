@@ -1,0 +1,28 @@
+2024-01-28 22:38:00,486 Running on GPU
+2024-01-28 22:38:00,487 Found 5 citations for tools or databases
+2024-01-28 22:38:00,487 Query 1/1: results_213 (length 1246)
+2024-01-28 22:38:01,762 Sleeping for 8s. Reason: PENDING
+2024-01-28 22:38:11,026 Sleeping for 10s. Reason: RUNNING
+2024-01-28 22:38:22,344 Sleeping for 9s. Reason: RUNNING
+2024-01-28 22:38:32,606 Sleeping for 5s. Reason: RUNNING
+2024-01-28 22:38:38,856 Sleeping for 10s. Reason: RUNNING
+2024-01-28 22:38:50,117 Sleeping for 7s. Reason: RUNNING
+2024-01-28 22:38:58,362 Sleeping for 5s. Reason: RUNNING
+2024-01-28 22:39:04,623 Sleeping for 10s. Reason: RUNNING
+2024-01-28 22:39:15,946 Sleeping for 6s. Reason: RUNNING
+2024-01-28 22:39:26,524 Setting max_seq=512, max_extra_seq=4433
+2024-01-28 22:40:20,406 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=80.2 pTM=0.546
+2024-01-28 22:41:00,496 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=80.7 pTM=0.59 tol=2.67
+2024-01-28 22:41:40,623 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=80.6 pTM=0.588 tol=1.95
+2024-01-28 22:42:20,757 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=80.1 pTM=0.571 tol=2.74
+2024-01-28 22:43:00,883 alphafold2_ptm_model_1_seed_000 recycle=4 pLDDT=80.1 pTM=0.568 tol=0.924
+2024-01-28 22:43:41,011 alphafold2_ptm_model_1_seed_000 recycle=5 pLDDT=80.1 pTM=0.565 tol=1.83
+2024-01-28 22:44:21,146 alphafold2_ptm_model_1_seed_000 recycle=6 pLDDT=80 pTM=0.573 tol=1.06
+2024-01-28 22:45:01,282 alphafold2_ptm_model_1_seed_000 recycle=7 pLDDT=80 pTM=0.555 tol=3.3
+2024-01-28 22:45:41,422 alphafold2_ptm_model_1_seed_000 recycle=8 pLDDT=79.8 pTM=0.556 tol=0.658
+2024-01-28 22:46:21,553 alphafold2_ptm_model_1_seed_000 recycle=9 pLDDT=79.8 pTM=0.56 tol=0.595
+2024-01-28 22:47:01,697 alphafold2_ptm_model_1_seed_000 recycle=10 pLDDT=79.8 pTM=0.559 tol=0.368
+2024-01-28 22:47:01,698 alphafold2_ptm_model_1_seed_000 took 450.8s (10 recycles)
+2024-01-28 22:47:02,228 reranking models by 'plddt' metric
+2024-01-28 22:47:02,228 rank_001_alphafold2_ptm_model_1_seed_000 pLDDT=79.8 pTM=0.559
+2024-01-28 22:47:02,683 Done

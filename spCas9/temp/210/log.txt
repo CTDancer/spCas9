@@ -1,0 +1,27 @@
+2024-01-28 22:20:27,100 Running on GPU
+2024-01-28 22:20:27,100 Found 5 citations for tools or databases
+2024-01-28 22:20:27,100 Query 1/1: results_210 (length 1246)
+2024-01-28 22:20:28,500 Sleeping for 10s. Reason: PENDING
+2024-01-28 22:20:39,736 Sleeping for 7s. Reason: RUNNING
+2024-01-28 22:20:47,978 Sleeping for 6s. Reason: RUNNING
+2024-01-28 22:20:55,222 Sleeping for 10s. Reason: RUNNING
+2024-01-28 22:21:06,515 Sleeping for 5s. Reason: RUNNING
+2024-01-28 22:21:12,828 Sleeping for 10s. Reason: RUNNING
+2024-01-28 22:21:24,068 Sleeping for 8s. Reason: RUNNING
+2024-01-28 22:21:33,336 Sleeping for 7s. Reason: RUNNING
+2024-01-28 22:21:41,567 Sleeping for 7s. Reason: RUNNING
+2024-01-28 22:21:49,820 Sleeping for 9s. Reason: RUNNING
+2024-01-28 22:22:00,100 Sleeping for 8s. Reason: RUNNING
+2024-01-28 22:22:09,465 Sleeping for 6s. Reason: RUNNING
+2024-01-28 22:22:16,704 Sleeping for 6s. Reason: RUNNING
+2024-01-28 22:22:27,479 Setting max_seq=512, max_extra_seq=4556
+2024-01-28 22:23:29,358 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=79.6 pTM=0.533
+2024-01-28 22:24:09,738 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=80.8 pTM=0.595 tol=1.95
+2024-01-28 22:24:50,142 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=80.5 pTM=0.587 tol=0.951
+2024-01-28 22:25:30,575 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=80.4 pTM=0.585 tol=0.517
+2024-01-28 22:26:11,003 alphafold2_ptm_model_1_seed_000 recycle=4 pLDDT=80.3 pTM=0.58 tol=0.674
+2024-01-28 22:26:51,438 alphafold2_ptm_model_1_seed_000 recycle=5 pLDDT=80.3 pTM=0.58 tol=0.393
+2024-01-28 22:26:51,438 alphafold2_ptm_model_1_seed_000 took 259.2s (5 recycles)
+2024-01-28 22:26:51,964 reranking models by 'plddt' metric
+2024-01-28 22:26:51,964 rank_001_alphafold2_ptm_model_1_seed_000 pLDDT=80.3 pTM=0.58
+2024-01-28 22:26:52,420 Done

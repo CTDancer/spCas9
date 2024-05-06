@@ -1,0 +1,29 @@
+2024-01-28 11:00:44,856 Running on GPU
+2024-01-28 11:00:44,857 Found 5 citations for tools or databases
+2024-01-28 11:00:44,857 Query 1/1: results_138 (length 1257)
+2024-01-28 11:00:46,124 Sleeping for 7s. Reason: PENDING
+2024-01-28 11:00:54,368 Sleeping for 10s. Reason: RUNNING
+2024-01-28 11:01:05,641 Sleeping for 9s. Reason: RUNNING
+2024-01-28 11:01:15,974 Sleeping for 9s. Reason: RUNNING
+2024-01-28 11:01:26,247 Sleeping for 5s. Reason: RUNNING
+2024-01-28 11:01:32,573 Sleeping for 6s. Reason: RUNNING
+2024-01-28 11:01:39,815 Sleeping for 6s. Reason: RUNNING
+2024-01-28 11:01:47,102 Sleeping for 8s. Reason: RUNNING
+2024-01-28 11:01:56,434 Sleeping for 8s. Reason: RUNNING
+2024-01-28 11:02:08,971 Setting max_seq=512, max_extra_seq=4308
+2024-01-28 11:03:03,300 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=79.4 pTM=0.552
+2024-01-28 11:03:44,968 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=80.3 pTM=0.613 tol=2.41
+2024-01-28 11:04:26,658 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=80 pTM=0.59 tol=1.82
+2024-01-28 11:05:08,357 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=79.9 pTM=0.584 tol=0.837
+2024-01-28 11:05:50,074 alphafold2_ptm_model_1_seed_000 recycle=4 pLDDT=80.2 pTM=0.589 tol=0.832
+2024-01-28 11:06:31,778 alphafold2_ptm_model_1_seed_000 recycle=5 pLDDT=80 pTM=0.575 tol=0.928
+2024-01-28 11:07:13,503 alphafold2_ptm_model_1_seed_000 recycle=6 pLDDT=80.1 pTM=0.578 tol=2.27
+2024-01-28 11:07:55,213 alphafold2_ptm_model_1_seed_000 recycle=7 pLDDT=80.1 pTM=0.58 tol=1.21
+2024-01-28 11:08:36,950 alphafold2_ptm_model_1_seed_000 recycle=8 pLDDT=80.3 pTM=0.578 tol=0.655
+2024-01-28 11:09:18,670 alphafold2_ptm_model_1_seed_000 recycle=9 pLDDT=80.7 pTM=0.593 tol=0.759
+2024-01-28 11:10:00,389 alphafold2_ptm_model_1_seed_000 recycle=10 pLDDT=80.8 pTM=0.587 tol=0.524
+2024-01-28 11:10:42,113 alphafold2_ptm_model_1_seed_000 recycle=11 pLDDT=80.9 pTM=0.593 tol=0.383
+2024-01-28 11:10:42,114 alphafold2_ptm_model_1_seed_000 took 508.9s (11 recycles)
+2024-01-28 11:10:42,662 reranking models by 'plddt' metric
+2024-01-28 11:10:42,662 rank_001_alphafold2_ptm_model_1_seed_000 pLDDT=80.9 pTM=0.593
+2024-01-28 11:10:43,111 Done

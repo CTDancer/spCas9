@@ -1,0 +1,4 @@
+2024-01-28 12:46:36,053 Running on GPU
+2024-01-28 12:46:36,054 Found 5 citations for tools or databases
+2024-01-28 12:46:36,054 Query 1/1: results_153 (length 1256)
+2024-01-28 12:46:37,903 Sleeping for 10s. Reason: PENDING
